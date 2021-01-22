@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChripsCriketCal</string>
+    <string name="text1">Back in 1897, a scientist named Amos Dolbear published an article “The Cricket as a Thermometer” that noted the correlation between the ambient temperature and the rate at which crickets chirp.</string>
+    <string name="text2">ENTER COUNT FOR 14 SEC</string>
+    <string name="text3">TextView</string>
+    <string name="text4">Calculate Temperature</string>
+    <string name="text5">TODO</string>
+    <string name="to_calculate_temperature_using_cricket_crips_n_n_n_we_can_use_both_celsius_and_fahrenheit">To Calculate Temperature Using Cricket Crips  \n\n     We can Use Both Celsius and Fahrenheit</string>
+</resources>
